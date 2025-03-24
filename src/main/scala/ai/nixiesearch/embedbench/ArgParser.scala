@@ -38,7 +38,7 @@ object ArgParser {
     _       <- IO(parser.verify())
     queries <- parse(parser.queries)
     docs    <- parse(parser.docs)
-    out    <- parse(parser.out)
+    out     <- parse(parser.out)
   } yield {
     Args(queries, docs, out)
   }

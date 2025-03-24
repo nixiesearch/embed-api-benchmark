@@ -41,6 +41,7 @@ java.lang.Exception: missing required option queries
 ## FAQ
 
 Q: OMG it's written in Scala!
+
 A: Yes I like it, why not?
 
 ## License

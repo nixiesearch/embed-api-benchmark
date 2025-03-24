@@ -38,6 +38,11 @@ java -jar target/<scala-dir>/embed-bench-assembly-0.1.0-SNAPSHOT.jar --help
 java.lang.Exception: missing required option queries
 ```
 
+## FAQ
+
+Q: OMG it's written in Scala!
+A: Yes I like it, why not?
+
 ## License
 
 Apache 2.0
